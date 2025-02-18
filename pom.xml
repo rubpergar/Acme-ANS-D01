@@ -21,7 +21,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	
-	<artifactId>Acme-ANS-D01</artifactId>
+	<artifactId>Acme-ANS</artifactId>
+	<version>D01</version>
 	<packaging>war</packaging>
 	
 	<parent>
